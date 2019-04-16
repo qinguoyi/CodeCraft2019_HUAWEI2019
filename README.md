@@ -6,7 +6,13 @@ HUAWEI2019
 
 成绩：初赛第4，复赛第19
 
+<div align=center><img width="432" height="270" src="https://github.com/qinguoyi/HUAWEI2019/tree/master/result/初赛.jpg"/></div>
+
+<div align=center><img width="432" height="270" src="https://github.com/qinguoyi/HUAWEI2019/tree/master/result/复赛.jpg"/></div>
+
+
 [2019届华为软件精英挑战赛“智能世界•纵横”](https://codecraft.huawei.com/Generaldetail)
+
 
 初赛通过规划车辆路径和出发时间，使得系统调度时间最短，复赛在初赛的基础上添加优先车辆和预置车辆，我们没有实现调度器，通过自定义路权函数，伪动态更新路权和发车策略来分图调整参数，达到最优时间。
 
