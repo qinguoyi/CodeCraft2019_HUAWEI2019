@@ -6,9 +6,9 @@ HUAWEI2019
 
 成绩：初赛第4，复赛第19
 
-<div align=center><img width="432" height="270" src="https://github.com/qinguoyi/HUAWEI2019/tree/master/result/初赛.jpg"/></div>
+<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/chusai.jpg"/></div>
 
-<div align=center><img width="432" height="270" src="https://github.com/qinguoyi/HUAWEI2019/tree/master/result/复赛.jpg"/></div>
+<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/fusai.jpg"/></div>
 
 
 [2019届华为软件精英挑战赛“智能世界•纵横”](https://codecraft.huawei.com/Generaldetail)
