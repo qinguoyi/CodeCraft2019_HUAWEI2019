@@ -4,7 +4,7 @@ HUAWEI2019
 
 队员：秦国义、易鑫、公衍翔
 
-成绩：初赛第4，复赛第19
+成渝赛区：初赛第4，复赛第19
 
 <div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/chusai.jpg"/></div>
 
