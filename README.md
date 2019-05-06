@@ -1,4 +1,4 @@
-HUAWEI2019
+CodeCraft2019 [![HUAWEI](https://img.shields.io/badge/link-CodeCraft2019-green.svg)](https://codecraft.huawei.com/Generaldetail)
 ===============
 队伍名：桃子树下挠挠头
 
@@ -6,15 +6,9 @@ HUAWEI2019
 
 成渝赛区：初赛第4，复赛第19
 
-[![HUAWEI](https://img.shields.io/badge/link-CodeCraft2019-green.svg)](https://codecraft.huawei.com/Generaldetail)
-
 <div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/chusai.jpg"/></div>
 
-<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/fusai.jpg"/></div>
-
-
-
-
+<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/fusai.jpg"/></div>  
 
 
 初赛通过规划车辆路径和出发时间，使得系统调度时间最短，复赛在初赛的基础上添加优先车辆和预置车辆，我们通过自定义路权函数，伪动态更新路权和发车策略来分图调整参数，达到最优时间。
