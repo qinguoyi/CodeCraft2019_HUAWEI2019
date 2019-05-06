@@ -1,4 +1,4 @@
-[![HUAWEI](https://img.shields.io/badge/link-CodeCraft2019-green.svg)](https://codecraft.huawei.com/Generaldetail)
+[![HUAWEI](https://img.shields.io/badge/HUAWEI-CodeCraft2019-green.svg)](https://codecraft.huawei.com/Generaldetail)
 ===============
 队伍名：桃子树下挠挠头
 
