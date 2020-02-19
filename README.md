@@ -1,20 +1,23 @@
-[![HUAWEI](https://img.shields.io/badge/HUAWEI-CodeCraft2019-green.svg)](https://codecraft.huawei.com/Generaldetail)
+2019华为软件精英挑战赛
 ===============
-队伍名：桃子树下挠挠头
-
-队员：秦国义、易鑫、公衍翔
-
 成渝赛区：初赛第4，复赛第19
 
-<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/chusai.jpg"/></div>
+<div align=center><img width="679" height="34" src="https://github.com/twomonkeyclub/CodeCraft2019/blob/master/result/chusai.jpg"/></div>
 
-<div align=center><img width="679" height="34" src="https://github.com/qinguoyi/HUAWEI2019/blob/master/result/fusai.jpg"/></div>    
-
-  
-  
+<div align=center><img width="679" height="34" src="https://github.com/twomonkeyclub/CodeCraft2019/blob/master/result/fusai.jpg"/></div>
 
 
 初赛通过规划车辆路径和出发时间，使得系统调度时间最短，复赛在初赛的基础上添加优先车辆和预置车辆，我们通过自定义路权函数，伪动态更新路权和发车策略来分图调整参数，达到最优时间。
+
+
+0准备如何苟进复赛圈？
+------------
+过来人告诉你，0准备如何苟进复赛圈？华为软挑开挂指南，请关注公众号 **“两猿圈”**.
+> * **0准备如何苟进复赛圈？华为软挑开挂指南**
+> * **带你丰富互联网相关项目经验，轻松应对校招！！！**
+> * **项目模块详细讲解，在公众号内持续更新！！！**
+
+<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="258"/> </div>
 
 初赛思路
 ------------
