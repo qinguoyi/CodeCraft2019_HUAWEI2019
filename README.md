@@ -12,12 +12,12 @@
 
 0准备如何苟进复赛圈？
 ------------
-过来人告诉你，0准备如何苟进复赛圈？华为软挑开挂指南。更多资料，请关注公众号 **“两猿圈”**.
+过来人告诉你，0准备如何苟进复赛圈？华为软挑开挂指南。更多资料，请关注公众号 **“两猿社”**.
 > * 选择底部菜单栏：**互联网 -> 经验分享 -> O准备如何苟进复赛圈？华为软挑开挂指南(附赛题预测)**
 > * **带你丰富互联网相关项目经验，轻松应对校招！！！**
 > * **项目模块详细讲解，在公众号内持续更新！！！**
 
-<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="258"/> </div>
+<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="350"/> </div>
 
 初赛思路
 ------------
